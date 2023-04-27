@@ -1,7 +1,7 @@
 <img align=center src="https://i.imgur.com/XmleWyL.png">
 
-Felix (Latin for "happy," "fortunate," or "blessed") is a Minecraft modpack inspired by the Latin word, 
-which aims to enhance the vanilla Minecraft experience while maintaining the survival feel. This modpack 
+Felix (Latin for "happy," "fortunate," or "blessed") is a Minecraft modpack
+that aims to enhance the vanilla Minecraft experience while maintaining the survival feel. This modpack 
 focuses on improving quality of life features, revamping naturally generated structures, and introducing 
 new building blocks. The primary goal is to provide an easy-going, enjoyable experience for all players.
 

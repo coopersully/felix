@@ -13,7 +13,7 @@
 	"pause_menu": {
 		"bottom_right": [
 			{
-				"text": "Felix v1.0",
+				"text": "Felix v1.1",
 				"clickEvent": {
 					"action": "open_url",
 					"value": "https://github.com/coopersully/felix/"
